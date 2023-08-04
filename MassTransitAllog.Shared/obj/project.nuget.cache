@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZH6ArqpEhR67hQt8dlP3BBqcJMoYLn5acNeWH89X1VqNfiBMl99b33CdIMnEa1u5ps1RLzbBsb8GtPhtT2LaEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AMD\\Desktop\\MassTransitAllog-main\\MassTransitAllog.Shared\\MassTransitAllog.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AMD\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\AMD\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\AMD\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
